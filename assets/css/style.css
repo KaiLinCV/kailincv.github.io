@@ -667,6 +667,7 @@ small {
     line-height: 24px;
   }
   #experience span.card-title {
+    color: black;
     text-align: center;
     display: block;
   }
