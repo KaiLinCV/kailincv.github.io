@@ -427,8 +427,8 @@ h3 {
 }
 
 .card-action span {
-  font-size: 85%;
-  color: #666;
+  font-size: 100%;
+  color: #000000;
 }
 
 .card ul {
