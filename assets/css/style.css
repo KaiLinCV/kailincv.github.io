@@ -710,3 +710,19 @@ small {
   max-height: 2000px;
   object-fit: contain;
 }
+
+/* Prevent parent containers from clipping enlarged image */
+.materialbox-overlay {
+  z-index: 9999 !important;
+}
+
+.materialboxed.active {
+  position: fixed !important;
+  top: 50% !important;
+  left: 50% !important;
+  max-width: 90vw !important;
+  max-height: 90vh !important;
+  transform: translate(-50%, -50%) !important;
+  z-index: 10000 !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
