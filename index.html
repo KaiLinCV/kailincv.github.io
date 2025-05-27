@@ -730,7 +730,7 @@
                   <div class="col s12 m6 l6">
                     <div class="card">
                       <div class="card-image">
-                        <img src="/assets/img/CompTIA_A+_certification.jpg">
+                        <img class="materialboxed responsive-img" src="/assets/img/CompTIA_A+_certification.jpg">
                       </div>
                       <div class="card-content">
                         <span class="card-title teal-text">CompTIA A+ Certification</span>
@@ -741,7 +741,7 @@
                   <div class="col s12 m6 l6">
                     <div class="card">
                       <div class="card-image">
-                        <img src="/assets/img/Google_Cyber_Certificate.jpg">
+                        <img class="materialboxed responsive-img" src="/assets/img/Google_Cyber_Certificate.jpg">
                       </div>
                       <div class="card-content">
                         <span class="card-title teal-text">Google Cybersecurity Certificate</span>
@@ -872,6 +872,12 @@
         closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
       })
     })
+  </script>
+  <script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const elems = document.querySelectorAll('.materialboxed');
+    M.Materialbox.init(elems);
+  });
   </script>
 </body>
 
