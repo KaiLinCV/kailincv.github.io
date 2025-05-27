@@ -707,6 +707,6 @@ small {
 }
 
 .materialboxed {
-  max-height: 200px;
+  max-height: 2000px;
   object-fit: contain;
 }
