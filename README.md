@@ -7,10 +7,8 @@ This site highlights my technical skills, home labs, scripting practice, and cer
 
 ## 🌐 Website Links
 
-| Language       | URL                                                                                   |
-|----------------|------------------------------------------------------------------------------------ --|
-|    English     | [https://kailincv.github.io/index.html](https://kailincv.github.io/index.html)        |
-|    中文        | [https://kailincv.github.io/index_zh.html](https://kailincv.github.io/index_zh.html)  |
+English : [https://kailincv.github.io/index.html](https://kailincv.github.io/index.html) 
+中文 : [https://kailincv.github.io/index_zh.html](https://kailincv.github.io/index_zh.html) 
 
 ---
 
