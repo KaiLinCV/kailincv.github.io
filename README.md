@@ -41,4 +41,11 @@ Feel free to connect via:
 
 ---
 
-Thank you for visiting my portfolio! 🙏
+Thank you for visiting my portfolio!
+
+---
+
+Credits:
+Portfolio Template by Varad Bhogayata
+[github.com/varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io)
+
